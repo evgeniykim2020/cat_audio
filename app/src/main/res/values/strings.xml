@@ -1,0 +1,12 @@
+<resources>
+  <!-- Main Activity -->
+  <string name="app_name">Cat Sounds</string>
+  <string name="activity_main_title_label">Record Cat Sounds</string>
+  <string name="activity_main_start_button">Start Audio Capture</string>
+  <string name="activity_main_stop_button">Stop Audio Capture</string>
+  <string name="content_description_cat_image_for_decoration">Cat Image for decoration</string>
+  <string name="record_button">Record</string>
+  <string name="list_of_audios_button">List of Audios</string>
+  <string name="sample_audio_placeholder">sample.audio</string>
+  <string name="sample_audio_number_placeholder">1</string>
+</resources>
